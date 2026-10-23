@@ -1,4 +1,5 @@
-# Maintainer: Joffrey <j-off@live.fr>
+# Maintainer: Miroslav Pavleski <miroslav@pavleski.net>
+# Contributor: Joffrey <j-off@live.fr>
 # Contributor: eolianoe <eolianoe [at] gmail [DoT] com>
 # Contributor: localizator <localizator@ukr.net>
 # Contributor: Edvinas Valatka <edacval@gmail.com>
